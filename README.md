@@ -43,3 +43,5 @@ SppRarityForm_SiteScale_TwoBioDomains: Contains the number of species, consideri
 Species_FunctionalTraits: A presence-absence matrix of functional traits related to life history (sexual condition and asexual reproduction) and the dispersal ability of each species (spore size). Additionally, it includes information on species presence in one or both bioclimatic domains (shared species) and, if the species is shared, changes or persistence in its rarity pattern.
 
 These databases are necessary for NMDS and PERMANOVA analyses, which are detailed in the script NMD_RareSpecies&FunctionalTraits&PERMANOVA.
+
+IV.- Figures 2 and 3 were created using Table S3 and the tutorial for alluvial plots available at https://cran.r-project.org/web/packages/ggalluvial/vignettes/ggalluvial.html. Editing details were made with Adobe Illustrator.
